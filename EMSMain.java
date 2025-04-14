@@ -13,7 +13,7 @@ class Employee {
         this.salary = salary;
     }
 
-    // Getter methods
+    
     public int getId()
      { 
         return id; 
